@@ -1,0 +1,11 @@
+Variables: Es en donde almacenamos un valor para usarlo luego. Es una cajita vacía que creamos para después poder almacenar algo dentro.
+
+Strings: Es una cadena de caracteres que siempre van entre comillas simples o dobles. Se puede usar cualquiera de las dos formas de comillas, solo utilizar siempre las mismas para tener un estándar en tu código.
+
+Funciones (argumentos, return): Las funciones son un bloque de código que realiza alguna operación. Nos permiten dividir el trabajo que hace un programa en tareas más pequeñas. Ayudan a no tener que repetir código.
+Los argumentos representan el valor que se pasa a un parámetro de procedimiento cuando se llama al procedimiento. El código de llamada proporciona los argumentos cuando llama al procedimiento.
+Return: Devuelve algo que le solicitemos. Sería la única forma en que escapan los daros de una función y la misma se detiene.
+
+Declaraciones if: El condicional if se usa para tomar decisiones. Evalúa una operación lógica (true o false) y ejecuta la pieza de código siguiente si el resultado es verdadero.
+
+Valores booleanos (true, false): Son un tipo de dato lógico que puede representar valores de lógica binaria (0 o 1), esto es 2 valores que normalmente representan verdadero o falso.
