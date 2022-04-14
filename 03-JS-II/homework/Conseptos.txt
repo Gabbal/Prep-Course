@@ -1,0 +1,9 @@
+for: El ciclo for permite repetir un conjunto de instrucciones un numero especificado de veces.
+
+&&, ||, !: Son operadores lógicos que se usan para combinar dos valores booleanos y devolver un resultado verdadero, falso o nulo.
+
+&& "Y" ("AND"): Esto evaluará ambas expresiones y devolverá verdadero si AMBAS expresiones son `true`. Si uno (o ambos) de ellos es falso, este operador devolverá `false`.
+
+|| "Ó" ("OR"): Determinará si una de las expresiones es `true`. Devolverá `true` si una (o ambas) de las expresiones es `true`. Devolverá `false` si AMBAS expresiones son `false`.
+
+! "NOT" ("NO"): Devolverá el valor booleano opuesto de lo que se le pasa.
