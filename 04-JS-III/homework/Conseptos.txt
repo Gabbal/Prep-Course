@@ -1,0 +1,3 @@
+Arrays: Son como contenedores de almacenamiento donde separados por coma podemos poner tantas cadenas, números o booleanos como queramos y acceder a esos elementos cuando lo deseemos. 
+
+Construir una matriz es simple, declarar una variable y establecerla en [].  
