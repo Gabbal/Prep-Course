@@ -1,0 +1,9 @@
+Objetos: Es otro tipo de contenedor de datos, es usado para guardar una colección de datos definidos y entidades más complejas.
+
+Propiedades: Las propiedades serían las claves que pueden tener asignado un valor, son las propiedades que tendría el objeto.
+
+Métodos: Son las funciones guardadas en un objeto. Los valores de las propiedades se pueden establecer en funciones.
+
+Bucle for…in: Realiza la misma actividad que el bucle for, solo que en los objetos al no tener índices numéricos se modifica un poco para que pueda recorrer cada clave del objeto y finalizará cuando se hayan iterado todas las claves.
+
+Notación de puntos vs notación de corchetes: Ambas cumplen su función aunque la notación de puntos es más simple de escribir y la de corchetes casi siempre se utiliza con variables (La clave o propiedad van entre comillas y las variables van sin nada).
