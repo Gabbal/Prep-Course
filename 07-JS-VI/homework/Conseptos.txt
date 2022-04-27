@@ -1,0 +1,2 @@
+Funciones Callback: Son muy importantes en Javascript ya que tienen la capacidad de pasar una función como argumento a otra función. 
+Estas funciones pueden llamarse en cualquier momento y pasar argumentos dentro de la función para completar algún tipo de rutina o acción.
